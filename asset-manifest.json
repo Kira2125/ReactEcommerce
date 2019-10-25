@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactEcommerce/static/css/main.31c7c205.chunk.css",
-    "main.js": "/ReactEcommerce/static/js/main.f639b25b.chunk.js",
-    "main.js.map": "/ReactEcommerce/static/js/main.f639b25b.chunk.js.map",
-    "runtime~main.js": "/ReactEcommerce/static/js/runtime~main.67b489fd.js",
-    "runtime~main.js.map": "/ReactEcommerce/static/js/runtime~main.67b489fd.js.map",
-    "static/js/2.0709bf0f.chunk.js": "/ReactEcommerce/static/js/2.0709bf0f.chunk.js",
-    "static/js/2.0709bf0f.chunk.js.map": "/ReactEcommerce/static/js/2.0709bf0f.chunk.js.map",
-    "index.html": "/ReactEcommerce/index.html",
-    "precache-manifest.0135c5f7a4af145ee934054eec5a26d5.js": "/ReactEcommerce/precache-manifest.0135c5f7a4af145ee934054eec5a26d5.js",
-    "service-worker.js": "/ReactEcommerce/service-worker.js",
-    "static/css/main.31c7c205.chunk.css.map": "/ReactEcommerce/static/css/main.31c7c205.chunk.css.map",
-    "static/media/crown.19ef7b17.svg": "/ReactEcommerce/static/media/crown.19ef7b17.svg",
-    "static/media/shopping-bag.30f07071.svg": "/ReactEcommerce/static/media/shopping-bag.30f07071.svg"
+    "main.css": "/static/css/main.31c7c205.chunk.css",
+    "main.js": "/static/js/main.f639b25b.chunk.js",
+    "main.js.map": "/static/js/main.f639b25b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.e659c5bb.chunk.js": "/static/js/2.e659c5bb.chunk.js",
+    "static/js/2.e659c5bb.chunk.js.map": "/static/js/2.e659c5bb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.827d529b09c57be5d67e0c03a0b98729.js": "/precache-manifest.827d529b09c57be5d67e0c03a0b98729.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.31c7c205.chunk.css.map": "/static/css/main.31c7c205.chunk.css.map",
+    "static/media/crown.19ef7b17.svg": "/static/media/crown.19ef7b17.svg",
+    "static/media/shopping-bag.30f07071.svg": "/static/media/shopping-bag.30f07071.svg"
   }
 }
