@@ -13,7 +13,7 @@ export const fetchCollectionsSuccess = collectionMap => ({
 export const fetchCollectionError = errorMessage => ({
     type: shopTypes.FETCH_COLLECTIONS_ERROR,
     payload: errorMessage,
-})
+});
 
 export const fetchCollectionStartAsync = () => {
     return dispatch => {

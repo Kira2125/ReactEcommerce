@@ -6,7 +6,7 @@ import CategoryPage from "./collection.component";
 import {createStructuredSelector} from "reselect";
 
 const mapStateToProps =  createStructuredSelector({
-    isCollectionLoaded: state => selectCollectionIsLoaded(state)
+    isLoading: state => !selectCollectionIsLoaded(state)
 })
 
 const ContainerCategoryPage = connect(mapStateToProps)(WithSpinner(CategoryPage));
